@@ -1,0 +1,3 @@
+greet people
+run well
+drink a mojo
